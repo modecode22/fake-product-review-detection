@@ -1,0 +1,9 @@
+{
+  "max_len": 300,
+  "threshold": 0.5,
+  "labels": {
+    "0": "OR",
+    "1": "CG"
+  },
+  "preprocessing": "clean_light"
+}
